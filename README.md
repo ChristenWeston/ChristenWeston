@@ -1,5 +1,5 @@
 <h1 align="center">Hi :smile_cat:, I'm Christen Weston</h1>
-<h3 align="center">A passionate frontend developer from Portland, Oregon</h3>
+<h3 align="center">A passionate fullstack developer from Portland, Oregon</h3>
 
 - 🌱 I’m currently learning **C#, .NET Framework**
 
